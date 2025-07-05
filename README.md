@@ -36,3 +36,8 @@ git checkout gh-pages
 - En la rama **gh-pages** copiamos únicamente los ficheros del bundle (los que están dentro de la carpeta dist)
 - Cambiar en index.html de la build la ruta a los assets. De forma relativa al index.html
 - Al hacer push a la rama **gh-pages** despliega la aplicación
+
+```bash
+git add .
+git push
+```
