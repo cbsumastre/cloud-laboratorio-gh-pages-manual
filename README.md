@@ -13,7 +13,7 @@
    - Queremos desplegar una app.
    - Realizar el despliegue manual.
 
-Para poder desplegar manualmente en Github Pages:
+#### Para poder desplegar manualmente en Github Pages:
 
 - Hacer la build
 
@@ -41,3 +41,5 @@ git checkout gh-pages
 git add .
 git push
 ```
+
+Aplicación desplegada de forma manual en Github Pages: [https://cbsumastre.github.io/cloud-laboratorio-gh-pages-manual/](https://cbsumastre.github.io/cloud-laboratorio-gh-pages-manual/)
