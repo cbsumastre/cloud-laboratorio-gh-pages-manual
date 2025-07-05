@@ -24,7 +24,13 @@ npm run build
 - Crear rama llamada **gh-pages**
 
 ```bash
+git branch gh-pages
+```
 
+- Cambiar a la rama **gh-pages**
+
+```bash
+git checkout gh-pages
 ```
 
 - En la rama **gh-pages** copiamos únicamente los ficheros del bundle (los que están dentro de la carpeta dist)
